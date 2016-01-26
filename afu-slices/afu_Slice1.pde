@@ -1,3 +1,5 @@
+//Sketch created for visualization purposes of an installation in AFU store in Athens (Greece)
+//The image used is an algorithmic 3D render from the design team of AFU
 int numSlices = 20;
 int sliceWidth = 40;
 PImage mainImage;
