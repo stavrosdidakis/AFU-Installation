@@ -1,2 +1,2 @@
 # AFU
-Processing sketches developed for interactive installation AFU, exhibited in Athens, Greece (2012).
+Processing sketches developed for the interactive installation "AFU", exhibited in Athens, Greece (2012).
